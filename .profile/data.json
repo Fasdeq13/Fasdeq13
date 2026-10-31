@@ -1,0 +1,329 @@
+{
+ "key": "9169203",
+ "stars": 18,
+ "contributions": 279,
+ "repos": 13,
+ "followers": 2,
+ "languages": [
+  [
+   "Rust",
+   649415
+  ],
+  [
+   "Kotlin",
+   298310
+  ],
+  [
+   "C",
+   188368
+  ],
+  [
+   "JavaScript",
+   117862
+  ],
+  [
+   "HTML",
+   112365
+  ],
+  [
+   "C++",
+   109323
+  ],
+  [
+   "Python",
+   59580
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 5,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 10
+ },
+ "pins": [
+  {
+   "name": "Tunn.client",
+   "url": "https://github.com/Fasdeq13/Tunn.client",
+   "text": "simple vpn client",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "FasdQuery",
+   "url": "https://github.com/Fasdeq13/FasdQuery",
+   "text": "A blazing-fast, real-time file search engine and GUI for Linux, written in C++ and Qt6. Optimized for speed and low memory footprint.",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "fasdeq-studio",
+   "url": "https://github.com/Fasdeq13/fasdeq-studio",
+   "text": "An IDE written in Rust and designed for low-level development.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "FasdCommander",
+   "url": "https://github.com/FasdCommander/FasdCommander",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "vulkan-cocoa-core",
+   "url": "https://github.com/Fasdeq13/vulkan-cocoa-core",
+   "text": "vulkan-cocoa-core is a graphics translation layer designed to bridge Apple's Cocoa, CoreAnimation, and Metal 3 with the native Vulkan 1.3 API on Darwin/XNU systems",
+   "fork": false,
+   "stars": 7,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "MakuTweaker_linux",
+   "url": "https://github.com/Fasdeq13/MakuTweaker_linux",
+   "text": "Source Code of MakuTweaker for Linux",
+   "fork": true,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "vulkan-cocoa-core",
+   "url": "https://github.com/Fasdeq13/vulkan-cocoa-core",
+   "text": "vulkan-cocoa-core is a graphics translation layer designed to bridge Apple's Cocoa, CoreAnimation, and Metal 3 with the native Vulkan 1.3 API on Darwin/XNU systems",
+   "fork": false,
+   "stars": 7,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "fasdeq-studio",
+   "url": "https://github.com/Fasdeq13/fasdeq-studio",
+   "text": "An IDE written in Rust and designed for low-level development.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "FasdQuery",
+   "url": "https://github.com/Fasdeq13/FasdQuery",
+   "text": "A blazing-fast, real-time file search engine and GUI for Linux, written in C++ and Qt6. Optimized for speed and low memory footprint.",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Linux-Process-Hacker",
+   "url": "https://github.com/Fasdeq13/Linux-Process-Hacker",
+   "text": "Process Hacker built with Qt for the Linux kernel.",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "MakuTweaker_linux",
+   "url": "https://github.com/Fasdeq13/MakuTweaker_linux",
+   "text": "Source Code of MakuTweaker for Linux",
+   "fork": true,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Tunn.client",
+   "url": "https://github.com/Fasdeq13/Tunn.client",
+   "text": "simple vpn client",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "fasdeqOS",
+   "url": "https://github.com/Fasdeq13/fasdeqOS",
+   "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "FasdFM",
+   "url": "https://github.com/Fasdeq13/FasdFM",
+   "text": "The best file manager for Linux",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Fasdeq13.github.io",
+   "url": "https://github.com/Fasdeq13/Fasdeq13.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "fasdinit",
+   "url": "https://github.com/Fasdeq13/fasdinit",
+   "text": "fasdinit is a small PID 1 / service supervisor for Linux, written in Rust, in the style of FreeBSD's `rc.d`: plain text service files, a `rc.conf` to enable/disable them, and a single daemon that starts, watches, and restarts them. It talks to a CLI (`fasdctl`) over a Unix socket.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Fasdeq13",
+   "url": "https://github.com/Fasdeq13/Fasdeq13",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "fasdeq-os",
+   "url": "https://github.com/Fasdeq13/fasdeq-os",
+   "text": "site for fasdeqos",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "fasdinstaller",
+   "url": "https://github.com/Fasdeq13/fasdinstaller",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ]
+}

@@ -1,29 +1,25 @@
 {
- "key": "2078a455",
+ "key": "27ccd5b6",
  "stars": 18,
- "contributions": 290,
+ "contributions": 293,
  "repos": 13,
  "followers": 2,
  "languages": [
   [
    "Rust",
-   676831
+   709119
   ],
   [
    "Kotlin",
-   420238
+   421254
   ],
   [
    "C",
-   188368
-  ],
-  [
-   "JavaScript",
-   128660
+   210778
   ],
   [
    "HTML",
-   112365
+   110950
   ],
   [
    "C++",
@@ -32,6 +28,10 @@
   [
    "Python",
    59580
+  ],
+  [
+   "Slint",
+   30342
   ]
  ],
  "days": [
@@ -118,9 +118,13 @@
    {
     "c": 3,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 10
  },
  "pins": [

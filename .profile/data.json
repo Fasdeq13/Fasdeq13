@@ -1,6 +1,6 @@
 {
- "key": "27ccd5b6",
- "stars": 18,
+ "key": "f016d70b",
+ "stars": 19,
  "contributions": 293,
  "repos": 13,
  "followers": 2,
@@ -141,7 +141,7 @@
    "url": "https://github.com/Fasdeq13/Tunn.client",
    "text": "simple vpn client",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Kotlin",
    "topics": []
   },
@@ -202,6 +202,15 @@
    "topics": []
   },
   {
+   "name": "Tunn.client",
+   "url": "https://github.com/Fasdeq13/Tunn.client",
+   "text": "simple vpn client",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "fasdeq-studio",
    "url": "https://github.com/Fasdeq13/fasdeq-studio",
    "text": "An IDE written in Rust and designed for low-level development.",
@@ -235,15 +244,6 @@
    "fork": true,
    "stars": 2,
    "language": "C",
-   "topics": []
-  },
-  {
-   "name": "Tunn.client",
-   "url": "https://github.com/Fasdeq13/Tunn.client",
-   "text": "simple vpn client",
-   "fork": false,
-   "stars": 1,
-   "language": "Kotlin",
    "topics": []
   },
   {

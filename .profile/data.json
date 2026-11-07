@@ -1,21 +1,21 @@
 {
- "key": "43d0376d",
+ "key": "ed69ce5f",
  "stars": 19,
- "contributions": 308,
- "repos": 13,
+ "contributions": 312,
+ "repos": 14,
  "followers": 2,
  "languages": [
   [
    "Rust",
-   561063
+   589016
   ],
   [
    "Kotlin",
-   510864
+   531900
   ],
   [
    "C",
-   211197
+   211196
   ],
   [
    "HTML",
@@ -27,7 +27,7 @@
   ],
   [
    "Python",
-   59580
+   66448
   ],
   [
    "CSS",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 7,
     "day": 7,
     "today": true
    }
@@ -295,6 +295,15 @@
    "text": "fasdinit is a small PID 1 / service supervisor for Linux, written in Rust, in the style of FreeBSD's `rc.d`: plain text service files, a `rc.conf` to enable/disable them, and a single daemon that starts, watches, and restarts them. It talks to a CLI (`fasdctl`) over a Unix socket.",
    "fork": false,
    "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Tunn-plugins",
+   "url": "https://github.com/Fasdeq13/Tunn-plugins",
+   "text": "",
+   "fork": false,
+   "stars": 0,
    "language": "Rust",
    "topics": []
   },

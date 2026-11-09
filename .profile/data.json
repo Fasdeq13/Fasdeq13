@@ -1,8 +1,8 @@
 {
- "key": "aec1f0da",
+ "key": "3fd0fa58",
  "stars": 19,
- "contributions": 321,
- "repos": 14,
+ "contributions": 323,
+ "repos": 15,
  "followers": 2,
  "languages": [
   [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 9,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 9,
+  "current": 10,
   "longest": 10
  },
  "pins": [
@@ -276,6 +276,15 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "ThroneForAndroid",
+   "url": "https://github.com/Fasdeq13/ThroneForAndroid",
+   "text": "Android GUI proxy utility (Empowered by sing-box)",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {

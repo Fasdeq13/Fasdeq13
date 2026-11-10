@@ -1,17 +1,17 @@
 {
- "key": "2bd8ac02",
+ "key": "2b217a89",
  "stars": 19,
- "contributions": 323,
- "repos": 15,
+ "contributions": 326,
+ "repos": 16,
  "followers": 2,
  "languages": [
   [
-   "Rust",
-   597793
+   "Kotlin",
+   624784
   ],
   [
-   "Kotlin",
-   557288
+   "Rust",
+   597793
   ],
   [
    "C",
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 10,
     "today": true
    },
@@ -132,8 +132,8 @@
   ]
  ],
  "streak": {
-  "current": 10,
-  "longest": 10
+  "current": 11,
+  "longest": 11
  },
  "pins": [
   {
@@ -280,6 +280,15 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "FasdAI",
+   "url": "https://github.com/Fasdeq13/FasdAI",
+   "text": "FasdAI - это ИИ инструмент, направленный на объединение многих популярных LLM",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {

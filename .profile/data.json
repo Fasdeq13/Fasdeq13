@@ -1,7 +1,7 @@
 {
- "key": "d3241fd0",
+ "key": "1f59615",
  "stars": 19,
- "contributions": 336,
+ "contributions": 337,
  "repos": 16,
  "followers": 2,
  "languages": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 4,
     "day": 9,
     "today": false
    },
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 5,
     "day": 14,
     "today": true
    }
@@ -299,19 +299,19 @@
    "topics": []
   },
   {
-   "name": "FasdAI",
-   "url": "https://github.com/Fasdeq13/FasdAI",
-   "text": "FasdAI - это ИИ инструмент, направленный на объединение многих популярных LLM",
-   "fork": false,
+   "name": "ThroneForAndroid",
+   "url": "https://github.com/Fasdeq13/ThroneForAndroid",
+   "text": "Android GUI proxy utility (Empowered by sing-box)",
+   "fork": true,
    "stars": 0,
    "language": "Kotlin",
    "topics": []
   },
   {
-   "name": "ThroneForAndroid",
-   "url": "https://github.com/Fasdeq13/ThroneForAndroid",
-   "text": "Android GUI proxy utility (Empowered by sing-box)",
-   "fork": true,
+   "name": "FasdAI",
+   "url": "https://github.com/Fasdeq13/FasdAI",
+   "text": "FasdAI - это ИИ инструмент, направленный на объединение многих популярных LLM",
+   "fork": false,
    "stars": 0,
    "language": "Kotlin",
    "topics": []

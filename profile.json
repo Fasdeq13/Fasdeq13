@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "Fasdeq13",
-  "seed": "#FEF306",
-  "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "seed": "#0F150E",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -18,14 +18,16 @@
     "buttons"
   ],
   "hidden": [
-    "about"
+    "about",
+    "streak",
+    "buttons"
   ],
   "hero": {
-    "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "Low-level developer",
-    "typing": true,
-    "avatarShape": "cookie",
+    "greeting": "",
+    "name": "Fasdeq13",
+    "subtitle": "",
+    "typing": false,
+    "avatarShape": "sunny",
     "chips": [
       {
         "icon": "location_on",
@@ -33,13 +35,26 @@
       },
       {
         "icon": "code",
-        "label": "Rust · C++"
+        "label": "Rust · Kotlin · C"
       }
     ]
   },
   "about": {
     "title": "About me",
-    "items": []
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and desgner"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
   },
   "stack": {
     "title": "Tech stack",
@@ -52,31 +67,24 @@
             "label": "Rust"
           },
           {
-            "icon": "brand:kotlin",
-            "label": "Kotlin"
+            "icon": "brand:cplusplus",
+            "label": "C++"
           },
           {
             "icon": "brand:c",
             "label": "C"
           },
           {
-            "icon": "brand:cplusplus",
-            "label": "C++"
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "manual",
-    "repos": [
-      "Tunn.client",
-      "vulkan-cocoa-core",
-      "fasdeq-studio",
-      "FasdQuery",
-      "Linux-Process-Hacker",
-      "fasdeqOS"
-    ],
+    "source": "pinned",
+    "repos": [],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -103,6 +111,14 @@
       {
         "icon": "brand:telegram",
         "url": "https://t.me/raZOVry"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@fasdeqsuper13off"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@fasdeq13"
       }
     ],
     "variant": "chip",
@@ -114,10 +130,15 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://fasdeq13.github.io/",
+        "url": "https://example.com",
         "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
       }
-    ],
-    "card": false
+    ]
   }
 }

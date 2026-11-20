@@ -1,5 +1,5 @@
 {
- "key": "af142fdd",
+ "key": "d3e31389",
  "stars": 19,
  "contributions": 342,
  "repos": 16,
@@ -149,12 +149,12 @@
  },
  "pins": [
   {
-   "name": "Tunn.client",
-   "url": "https://github.com/Fasdeq13/Tunn.client",
-   "text": "simple vpn client",
+   "name": "fasdeqOS",
+   "url": "https://github.com/Fasdeq13/fasdeqOS",
+   "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
    "fork": false,
-   "stars": 2,
-   "language": "Kotlin",
+   "stars": 1,
+   "language": "QML",
    "topics": []
   },
   {

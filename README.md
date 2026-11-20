@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Fasdeq13/Tunn.client"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tunn-client-dark.svg"><img src="assets/project-tunn-client-light.svg" width="49%" alt="Tunn.client"></picture></a>&nbsp;<a href="https://github.com/Fasdeq13/FasdQuery"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fasdquery-dark.svg"><img src="assets/project-fasdquery-light.svg" width="49%" alt="FasdQuery"></picture></a>
+<a href="https://github.com/Fasdeq13/fasdeqOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fasdeqos-dark.svg"><img src="assets/project-fasdeqos-light.svg" width="49%" alt="fasdeqOS"></picture></a>&nbsp;<a href="https://github.com/Fasdeq13/FasdQuery"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fasdquery-dark.svg"><img src="assets/project-fasdquery-light.svg" width="49%" alt="FasdQuery"></picture></a>
 
 <a href="https://github.com/Fasdeq13/fasdeq-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fasdeq-studio-dark.svg"><img src="assets/project-fasdeq-studio-light.svg" width="49%" alt="fasdeq-studio"></picture></a>&nbsp;<a href="https://github.com/FasdCommander/FasdCommander"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fasdcommander-dark.svg"><img src="assets/project-fasdcommander-light.svg" width="49%" alt="FasdCommander"></picture></a>
 

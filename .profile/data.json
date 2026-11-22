@@ -1,10 +1,14 @@
 {
- "key": "50ff698f",
+ "key": "4227e677",
  "stars": 19,
- "contributions": 342,
- "repos": 16,
+ "contributions": 348,
+ "repos": 17,
  "followers": 2,
  "languages": [
+  [
+   "Java",
+   3546057
+  ],
   [
    "Rust",
    687380
@@ -12,6 +16,10 @@
   [
    "Kotlin",
    646043
+  ],
+  [
+   "Python",
+   311992
   ],
   [
    "C",
@@ -24,14 +32,6 @@
   [
    "C++",
    109323
-  ],
-  [
-   "Python",
-   75403
-  ],
-  [
-   "HTML",
-   62331
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 6,
     "day": 22,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 13
  },
  "pins": [
@@ -272,6 +272,15 @@
    "fork": false,
    "stars": 1,
    "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "AirTok",
+   "url": "https://github.com/Fasdeq13/AirTok",
+   "text": "Лучший Тикток Мод",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
    "topics": []
   },
   {

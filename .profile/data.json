@@ -1,6 +1,6 @@
 {
- "key": "183d778",
- "stars": 19,
+ "key": "e1243c30",
+ "stars": 20,
  "contributions": 348,
  "repos": 17,
  "followers": 2,
@@ -141,7 +141,7 @@
    "url": "https://github.com/Fasdeq13/fasdeqOS",
    "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "QML",
    "topics": []
   },
@@ -211,6 +211,15 @@
    "topics": []
   },
   {
+   "name": "fasdeqOS",
+   "url": "https://github.com/Fasdeq13/fasdeqOS",
+   "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
+   "fork": false,
+   "stars": 2,
+   "language": "QML",
+   "topics": []
+  },
+  {
    "name": "fasdeq-studio",
    "url": "https://github.com/Fasdeq13/fasdeq-studio",
    "text": "An IDE written in Rust and designed for low-level development.",
@@ -244,15 +253,6 @@
    "fork": true,
    "stars": 2,
    "language": "C",
-   "topics": []
-  },
-  {
-   "name": "fasdeqOS",
-   "url": "https://github.com/Fasdeq13/fasdeqOS",
-   "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
-   "fork": false,
-   "stars": 1,
-   "language": "QML",
    "topics": []
   },
   {

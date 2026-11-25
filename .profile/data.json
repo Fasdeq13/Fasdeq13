@@ -1,13 +1,13 @@
 {
- "key": "e91f6a71",
- "stars": 22,
- "contributions": 348,
+ "key": "6a257a28",
+ "stars": 24,
+ "contributions": 349,
  "repos": 17,
  "followers": 2,
  "languages": [
   [
    "Java",
-   3546057
+   3736271
   ],
   [
    "Rust",
@@ -16,10 +16,6 @@
   [
    "Kotlin",
    646043
-  ],
-  [
-   "Python",
-   311992
   ],
   [
    "C",
@@ -32,6 +28,10 @@
   [
    "C++",
    109323
+  ],
+  [
+   "Python",
+   75403
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 25,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 13
  },
  "pins": [
@@ -145,7 +145,7 @@
    "url": "https://github.com/Fasdeq13/fasdeqOS",
    "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
    "fork": false,
-   "stars": 4,
+   "stars": 6,
    "language": "QML",
    "topics": []
   },
@@ -210,7 +210,7 @@
    "url": "https://github.com/Fasdeq13/fasdeqOS",
    "text": "FasdeqOS is an open-source operating system designed to facilitate the transition from macOS to Linux.",
    "fork": false,
-   "stars": 4,
+   "stars": 6,
    "language": "QML",
    "topics": []
   },
